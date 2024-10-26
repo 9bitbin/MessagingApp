@@ -1,5 +1,8 @@
 # Chat Application Server ⭐
 
+- 9bitbin
+
+
 Welcome to the **Chat Application Server** project! This project implements a multi-client chat server where users can join, communicate in public chat rooms, or send private messages—all in real time! ✨ The project is designed to create a seamless and engaging chat experience by managing connections, authenticating users, and handling message flows.
 
 ## Key Features 🛠️
