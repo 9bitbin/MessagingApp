@@ -11,7 +11,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Date;
 
-public class ChatClient {
+public class ChatClient2 {
     private static final String SERVER_ADDRESS = "localhost"; // Server address
     private static final int SERVER_PORT = 12345; // Server port
 
@@ -29,7 +29,7 @@ public class ChatClient {
 
     private Map<String, PrivateChatWindow> privateChats; // Map for managing private chat windows
 
-    public ChatClient() {
+    public ChatClient2() {
         privateChats = new HashMap<>(); // Initialize the map for private chats
         showLoginScreen(); // Display the login screen when the client starts
     }
